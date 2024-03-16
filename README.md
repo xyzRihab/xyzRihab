@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rihab </h1>
 <h3 align="center">A CS student on a quest to vanquish bugs</h3>
 <br>
-<br>
 <div align="center">
-        <img alt="Coding" height="230" style="border-radius:5px" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-	    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=xyzRihab&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+        <img alt="Coding" height="230" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+	<br>
+	<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=xyzRihab&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" />
+	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=xyzRihab&langs_count=10&show_icons=true&locale=en&theme=tokyonight"/>
 </div>
 <br>
 <div>
-<img width="800px" style="border: solid; border-radius:5px" src="https://github-readme-activity-graph.vercel.app/graph?username=xyzRihab&bg_color=1a1b26&color=70a5fb&line=70a5fb&point=b1f2c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xyzRihab&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="282px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xyzRihab&bg_color=1a1b26&color=70a5fb&line=70a5fb&point=b1f2c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
 </div>
 <br>
 <br>
